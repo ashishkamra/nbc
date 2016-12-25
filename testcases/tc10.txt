@@ -1,0 +1,6 @@
+%This test case is for c triplets
+c
+/home/akamra/IDRBAC/nbc/testcases/tc10/trngdata.txt
+/home/akamra/IDRBAC/nbc/testcases/tc10/specs.txt
+/home/akamra/IDRBAC/nbc/testcases/tc10/fpdata.txt
+/home/akamra/IDRBAC/nbc/testcases/tc10/fndata.txt

@@ -1,0 +1,33 @@
+% This file contains the path to testcases which will be run when the program is executed
+%
+% Test case no 8 in the earlier version
+%//home//akamra//IDRBAC//nbc//testcases//tc10.txt
+%//home//akamra//IDRBAC//nbc//testcases//tc11.txt
+%//home//akamra//IDRBAC//nbc//testcases//tc12.txt
+%
+% Best case
+%//home//akamra//IDRBAC//nbc//testcases//tc1.txt
+%//home//akamra//IDRBAC//nbc//testcases//tc2.txt
+%//home//akamra//IDRBAC//nbc//testcases//tc3.txt
+%
+% Worst case
+%//home//akamra//IDRBAC//nbc//testcases//tc4.txt
+%//home//akamra//IDRBAC//nbc//testcases//tc5.txt
+%//home//akamra//IDRBAC//nbc//testcases//tc6.txt
+%
+% Test case no 6 in the submitted paper
+% Show the superiority of fine triplets
+%//home//akamra//IDRBAC//nbc//testcases//tc7.txt
+%//home//akamra//IDRBAC//nbc//testcases//tc8.txt
+%//home//akamra//IDRBAC//nbc//testcases//tc9.txt
+%
+% Test case no 5 in the submitted paper
+% Show inferiority of coarse triplets
+%//home//akamra//IDRBAC//nbc//testcases//tc10.txt
+%//home//akamra//IDRBAC//nbc//testcases//tc11.txt
+%//home//akamra//IDRBAC//nbc//testcases//tc12.txt
+%
+% Real Data test cases
+//home//akamra//IDRBAC//nbc//testcases//c_realdata.txt
+//home//akamra//IDRBAC//nbc//testcases//m_realdata.txt
+//home//akamra//IDRBAC//nbc//testcases//f_realdata.txt

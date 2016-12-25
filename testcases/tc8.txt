@@ -1,0 +1,5 @@
+s
+/home/akamra/IDRBAC/nbc/testcases/tc8/trngdata.txt
+/home/akamra/IDRBAC/nbc/testcases/tc8/specs.txt
+/home/akamra/IDRBAC/nbc/testcases/tc8/fpdata.txt
+/home/akamra/IDRBAC/nbc/testcases/tc8/fndata.txt
